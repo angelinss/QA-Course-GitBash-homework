@@ -1,1 +1,1 @@
-# QA-course-GitBash
+# Vadim Ksendzov's QA Course: GitBash Homework
