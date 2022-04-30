@@ -1,1 +1,1 @@
-# QA-course-GitBush
+# QA-course-GitBash
