@@ -1,1 +1,1 @@
-QA Course: GitBash 
+QA Course: GitBash Homework
