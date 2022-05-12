@@ -1,0 +1,7 @@
+Example of checklist's structure:
+
+Task in progress Status
+
+E-mail registration: Passed
+
+Register via Facebook: Passed
