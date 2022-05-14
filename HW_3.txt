@@ -17,7 +17,7 @@ TASKS:
 8. Run the structure on the external repository
 9. On the external repository, do a Pull Request of the CheckLists branch in the main
 10. Synchronize External and Local branches of Main
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 1) git branch Postman
 git branch Jmeter
 git branch CheckLists
